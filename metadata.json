@@ -1,0 +1,6 @@
+{
+  "name": "EDUVEX — 10–12 yoshli bolalar uchun ta’lim platformasi",
+  "description": "EDUVEX — 10–12 yoshli bolalar uchun mo‘ljallangan uch tilli (O‘zbek, Русский, English), xavfsiz va interaktiv ta’lim platformasi: fanlar, 10 savolli testlar, bilimlar ensiklopediyasi, kun savoli va yutuqlar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
